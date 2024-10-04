@@ -1,5 +1,5 @@
 ### 💫 About Me:
-##About Me<br><br>👋 Hi there! I'm Zain Ul Abdeen, a passionate developer specializing in the MERN stack with JavaScript and Next.js. I love crafting scalable and efficient web applications and enjoy learning and experimenting with new technologies. 🚀<br>
+<br><br>👋 Hi there! I'm Zain Ul Abdeen, a passionate developer specializing in the MERN stack with JavaScript and Next.js. I love crafting scalable and efficient web applications and enjoy learning and experimenting with new technologies. 🚀<br>
 
 
 ## 🌐 Socials:
